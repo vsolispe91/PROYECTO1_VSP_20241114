@@ -8,6 +8,7 @@ Descripcion: Consta basicamente de cuatro microservicios o unidades de negocio (
 Objetos:
 
 UML:
+-BorradorSistemaAPPProyecto1.drawio (modelo general del sistema draft)
 -DiagramaSecuenciaAPPBanco_GENERALSISTEMA.drawio
 -DiagramaSecuenciaAPPBanco_PORMICROSERVICIO.drawio  
 -UMLAPPBanco.drawio 
